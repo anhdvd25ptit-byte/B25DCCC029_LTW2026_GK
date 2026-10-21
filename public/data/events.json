@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Workshop React", "location": "Phòng A2", "date": "2026-11-05", "capacity": 100, "registered": 85 },
+  { "id": 2, "name": "Hackathon CLB", "location": "Hội trường", "date": "2026-11-20", "capacity": 50, "registered": 50 },
+  { "id": 3, "name": "Seminar Git", "location": "Phòng B1", "date": "2026-12-01", "capacity": 30, "registered": 12 }
+]
